@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   nombre = 'Yamid';
+  numeros = '123456789';
+  arreglo = [1,2,3,4,5,6,7,8,9,10];
 }
